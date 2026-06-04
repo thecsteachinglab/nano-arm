@@ -1,0 +1,5 @@
+
+/python/serial/__pycache__
+/python/serial/tools/__pycache__
+*.pyc
+nano-arm-short_h265.mp4
