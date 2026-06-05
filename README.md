@@ -27,6 +27,7 @@ The 'COM' number of the connected arduino must match the number set in the pytho
 - [Video Instructions](video-instructions/) Step by step animated guide for the build
 - [Wiring Instructions](Nano-Robo-Arm-wiring-instructions.pdf)
 - [Arduino file](RoboArm01_v4/)- upload to the arduino before or after completing the mechanical assembly, this step is best done by a teacher
+- [CAD Model](3D-Model/)
 
 
 ## Complete Build Video
