@@ -1,0 +1,26 @@
+ID,Category,Part,Material,Size,Quantity,Description,Fabrication,Estimated Unit Cost,Total Cost,Link
+1,Frame,dxf/nano-arm.dxf,laser plywood,3mm thick,1,,Laser cutter,,,
+2,Electronics,Arduino Uno R3,,,1,MCU,COTS,2.76,,https://www.aliexpress.com/item/1005009463538789.html. https://www.amazon.co.uk/R3-At328PU-Board-Microcontroller-Development-compatible-Environment/dp/B0D8W2QKNJ
+3,Electronics,Servo Shield,,,1,Servo Controller board,COTS,3.43,,https://www.aliexpress.com/item/1005006882192877.html.  https://www.amazon.co.uk/DollaTek-Driver-Module-Channel-Arduino
+4,Electronics,Micro Servo,,,6,Servo motors,COTS,1,,https://www.amazon.co.uk/Compatible-Projects-Raspberry-Helicopter-Airplane/dp/B0FFHFKQYR
+5,Electronics,Joystick,,,1,Joystick,COTS,1.378,,https://www.amazon.co.uk/DIGISHUO-Joystick-Controller-JoyStick-Raspberry/dp/B0DT12JLF3
+6,Electronics,Battery Holder,,,1,,COTS,1.7475,,https://www.amazon.co.uk/dp/B09XQZ8ZQ2
+7,Electronics,AA Battery,,,4,,COTS,,,
+9,Hardware,M3 Bolt,,10mm Length,15,Joint Frame bolts + arduino+joystick mounting,,,,
+10,Hardware,M3 Bolt,,25mm Length,5,Joint 1 (Base) Bolts + Claw Bolt,,,,
+,Hardware,M3 Nut,,,20,,,,,
+,Hardware,M2 Bolt,,8mm Length,14,,,,,
+,Hardware,M2 Nut,,,14,,,,,
+,Electronics,Dupont wire,,,5,Jumper Wire,COTS,0.0490833333333333,,https://www.amazon.co.uk/DiGiYes-120pcs-Breadboard-Multicolored-Arduino/dp/B0BKZVZC7F
+,Frame,F693ZZ Flanged Bearing,,ID3 OD8,,Claw Bearing,COTS,0.799,,https://www.amazon.co.uk/F693ZZ-Miniature-Bearings-Shielded-Pre-Lubricated/dp/B0CRLH1WT1
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Tools,,,,,,,,,,
+,,,,,,,,,,
+Laser Cutter,,,,,,,,,,
+Phillips Head Screwdriver,,,,,,,,,,
+Allen Key for 2mm/3mm Bolt,,,,,,,,,,
+Hand Drill with 2mm Drill bit,,,,,,,,,,
+Wire Strippers (optional),,,,,,,,,,
+Patience(optional),,,,,,,,,,
