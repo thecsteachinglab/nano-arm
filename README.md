@@ -11,13 +11,13 @@
 - Easy to fabricate with laser cutter
 
 ## Instructions
-- 1. Cut the [DXF file](dxf/nano-arm.dxf) using 3mm plywood.
+- 1. Cut the [DXF file](dxf/) using 3mm plywood.
 - 2. Assemble and wire using the [Video Instructions](video-instructions/) and [Wiring Instructions](Nano-Robo-Arm-wiring-instructions.pdf)
 - 3. Any issues with assembly, [Watch the complete build video](https://drive.google.com/file/d/1T0vYcdThMgW4G9yLXSIMqu09Ss1U54B_/view?usp=drive_link)
 - 4. Upload the firmwmare to the arduino: [Arduino file](nano-arm/RoboArm01_v4/) 
 > [!NOTE]
 > the 'adafruit pwm servo driver library' is required- installation is covered in the full build video )
-- 5. Open Python IDLE and use [myapp.py](nano-arm/python/) to program the bot 
+- 5. Open Python IDLE and use [myapp.py](python/) to program the bot 
 > [!NOTE]
 The 'COM' number of the connected arduino must match the number set in the python code. The COM number can be found in device manager->COM & LPT Devices->CH40 - see complete build video for further details)
 
@@ -26,7 +26,7 @@ The 'COM' number of the connected arduino must match the number set in the pytho
 - [Bill of Materials](Bill-of-Materials.csv)
 - [Video Instructions](video-instructions/) Step by step animated guide for the build
 - [Wiring Instructions](Nano-Robo-Arm-wiring-instructions.pdf)
-- [Arduino file](nano-arm/RoboArm01_v4/)- upload to the arduino before or after completing the mechanical assembly, this step is best done by a teacher
+- [Arduino file](RoboArm01_v4/)- upload to the arduino before or after completing the mechanical assembly, this step is best done by a teacher
 
 
 ## Complete Build Video
