@@ -33,6 +33,7 @@ The 'COM' number of the connected arduino must match the number set in the pytho
 
 [Watch the build video](https://drive.google.com/file/d/1T0vYcdThMgW4G9yLXSIMqu09Ss1U54B_/view?usp=drive_link)
 
+## Servo horns
 > [!NOTE]
 the SG90 servo horns requires the second and last hole to be drilled with a 2mm bit, this step is best done by a teacher.
 <img src="images/servo-horn.png" alt="Alt Text" width="300" height="500">
